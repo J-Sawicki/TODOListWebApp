@@ -1,0 +1,1 @@
+insert into TODO (text, done) values ('Check out this application', 'false');

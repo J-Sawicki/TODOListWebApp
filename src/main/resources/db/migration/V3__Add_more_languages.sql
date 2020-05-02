@@ -1,0 +1,1 @@
+insert into LANGUAGES (welcome_msg, code) values ('Halo', 'GER');
